@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/KIIT/Desktop/Storing Data/LinkedList",
-      "program": "c:/Users/KIIT/Desktop/Storing Data/LinkedList/build/Debug/outDebug",
+      "cwd": "c:/Users/KIIT/Documents/GitHub/Data-Structures/STL",
+      "program": "c:/Users/KIIT/Documents/GitHub/Data-Structures/STL/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
