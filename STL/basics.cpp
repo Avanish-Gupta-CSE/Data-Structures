@@ -8,7 +8,11 @@ void explainPair()
   cout << "Pair->first: " << student.first << "\nPair->second: " << student.second << endl;
 }
 
-void explain int main()
+void explainVector() {
+
+};
+
+int main()
 {
   explainPair();
   return 0;
